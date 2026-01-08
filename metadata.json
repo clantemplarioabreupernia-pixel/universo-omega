@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Proyecto Universo Omega",
+  "description": "A high-performance cinematic platform exploring the convergence of human consciousness and artificial intelligence, featuring interactive neural visuals and advanced Gemini-powered dialogues.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
